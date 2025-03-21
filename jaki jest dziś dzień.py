@@ -1,1 +1,1 @@
-print( Dziś jest piątek 21.03.2025)
+print("Dziś jest piątek, 21.03.2025")
